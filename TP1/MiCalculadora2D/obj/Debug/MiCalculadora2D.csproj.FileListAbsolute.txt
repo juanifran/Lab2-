@@ -10,3 +10,6 @@ c:\users\kik\documents\visual studio 2012\Projects\MiCalculadora2D\MiCalculadora
 C:\Users\kik\Downloads\juanifran-master\RecuperatorioTP-\TP1\MiCalculadora2D\bin\Debug\MiCalculadora2D.exe.config
 C:\Users\kik\Downloads\juanifran-master\RecuperatorioTP-\TP1\MiCalculadora2D\obj\Debug\MiCalculadora2D.exe
 C:\Users\kik\Downloads\juanifran-master\RecuperatorioTP-\TP1\MiCalculadora2D\obj\Debug\MiCalculadora2D.pdb
+C:\Users\kik\Desktop\Lab2--master\TP1\MiCalculadora2D\bin\Debug\MiCalculadora2D.exe.config
+C:\Users\kik\Desktop\Lab2--master\TP1\MiCalculadora2D\obj\Debug\MiCalculadora2D.exe
+C:\Users\kik\Desktop\Lab2--master\TP1\MiCalculadora2D\obj\Debug\MiCalculadora2D.pdb
